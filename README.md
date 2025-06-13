@@ -11,13 +11,13 @@
 <a href="https://github.com/nazedev/hitori/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/nazedev/hitori?label=PullRequest&color=red&style=flat-square"></a>
 </div>
 
-This script is created by [Nazedev](https://github.com/nazedev) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
+This script is created by [Dyvillexz](https://github.com/Dyvillexz/hitori.git) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Dyvilleexz
 
 ## Contributor
 
-- [NazeDev](https://github.com/nazedev) (Pembuat)
-- [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
-- [Dani](https://github.com/nazedev) (Penyumbang Code)
+- [Dyvillexz](https://github.com/Dyvillexz/hitori.git) (Pembuat)
+- [Villex](.)(Penyedia Layanan API)
+- [Fikslexz]() (Penyumbang Code)
 
 #### Join Group
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R) 
